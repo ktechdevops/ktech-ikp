@@ -1,2 +1,3 @@
 echo "jesus is love" 
-jesus is real
+jesus is real forever
+Jesus saves
